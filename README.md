@@ -43,8 +43,8 @@ This challenge was inspired by Frontend Mentor, coded by me from scratch.
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()*
-- Live Site URL: [Netlify]()*
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-tip-calculator-js-logic-and-constraint-validation-api-CrRyrXrm1H)
+- Live Site URL: [Netlify](https://68cd2801f9bcd9671f5b2f90--glistening-marshmallow-bc4b9c.netlify.app/)
 
 
 ## My process
